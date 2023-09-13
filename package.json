@@ -1,10 +1,10 @@
 {
   "name": "bun-starter",
-  "module": "index.ts",
+  "module": "main.ts",
   "type": "module",
   "scripts": {
-    "start": "bun run index.ts",
-    "dev": "bun run --watch index.ts"
+    "start": "bun run main.ts",
+    "dev": "bun run --watch main.ts"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "6.7.0",
