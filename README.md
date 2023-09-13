@@ -6,14 +6,14 @@ To install dependencies:
 bun install
 ```
 
-To run:
+To run once:
+
+```bash
+bun start
+```
+
+To run in watch mode:
 
 ```bash
 bun dev
-```
-
-or
-
-```bash
-bun run index.ts
 ```
